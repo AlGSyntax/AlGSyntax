@@ -14,7 +14,7 @@ I'm Alvaro, a passionate developer-in-training with a love for mobile app develo
 ## 🌱 What I'm Learning
 - **Mobile Application Development** using Kotlin & Swift
 - Leveraging tools like **Android Studio** and **XCode**
-- **Future Goals**: Mastering Python, Rust, and C++ to venture into AI
+- **Future Goals**: Mastering Python, Rust, and C++ to venture into AI 
 
 ---
 
