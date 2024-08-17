@@ -7,7 +7,7 @@
 ---
 
 ## 👀 About Me
-I'm Alvaro, a passionate developer-in-training with a love for mobile app development and artificial intelligence. Currently, I'm focused on mastering Kotlin and Swift, with plans to explore Python, Rust, and C++ to dive into AI development.
+I'm Alvaro, a passionate developer with a love for mobile app development and artificial intelligence. Currently, I'm focused on mastering Kotlin and Swift, with plans to explore Python, Rust, and C++ to dive into AI development.
 
 ---
 
