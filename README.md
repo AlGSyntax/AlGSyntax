@@ -19,12 +19,27 @@ I'm Alvaro, a passionate developer with a love for mobile app development and ar
 ---
 
 ## 🛠 Tech Stack
+### 💻 **Programming Languages**
 <p align="center">
    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge"/>
+</p>
+
+### 🧰 **Frameworks**
+<p align="center">
+   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose Badge"/>
    <img src="https://img.shields.io/badge/SwiftUI-006AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI Badge"/>
+</p>
+
+### 🛠 **IDEs**
+<p align="center">
    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio Badge"/>
-   <img src="https://img.shields.io/badge/XCode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="XCode Badge"/>
+   <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode Badge"/>
+</p>
+
+### 🎨 **Design Tools**
+<p align="center">
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
 </p>
 
 ---
