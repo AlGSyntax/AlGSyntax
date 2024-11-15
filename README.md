@@ -73,3 +73,12 @@ I aspire to master multiple programming languages to deepen my understanding of 
 <p align="center">
    🚀 "The only way to do great work is to love what you do." - Steve Jobs
 </p>
+
+
+
+---
+
+## 📫 How to Reach Me
+<p align="center">
+  <a href="mailto:algsyntax@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+</p>
