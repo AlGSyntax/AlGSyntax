@@ -35,6 +35,7 @@ I'm Alvaro, a passionate developer with a love for mobile app development and ar
 <p align="center">
    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio Badge"/>
    <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode Badge"/>
+   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio Badge"/>
 </p>
 
 ### 🎨 **Design Tools**
