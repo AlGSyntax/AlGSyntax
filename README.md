@@ -58,8 +58,7 @@ I'm eager to collaborate on:
 
 ---
 
-## 📫 How to Reach Me
-Feel free to connect with me via email: 📧 [adelcastifo@gmail.com](mailto:adelcastifo@gmail.com)
+
 
 ---
 
