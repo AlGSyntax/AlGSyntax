@@ -54,7 +54,7 @@ I'm eager to collaborate on:
 
 ## 📊 GitHub Stats
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=AlGSyntax&show_icons=true&theme=dark" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=AlGSyntax&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 
 ---
