@@ -57,8 +57,6 @@ I'm eager to collaborate on:
    <img src="https://github-readme-stats.vercel.app/api?username=AlGSyntax&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
-
 
 
 ---
